@@ -1,0 +1,13 @@
+Its a small web project with two views. One is frontend & another is backend.
+ 
+Before run project, pease run following command into terminal
+			php artisan migrate
+& please make sure that your database connection is perfect in .env file
+
+For fornt view, just run it then you will get a web look. In this part you just got 
+some dynamic info that passed from backend with the help of database(mySql).
+
+For backend view, you 1st need to create an account then u can login with credential. 
+then you can find different module with dashboard.
+In every section, it has, create, show, edit , update & delete option
+
